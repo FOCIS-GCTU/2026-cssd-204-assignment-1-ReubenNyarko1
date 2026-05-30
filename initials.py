@@ -1,7 +1,6 @@
 
 def main():
-  pass #code goes here
- # Prints my initials in stylized large letters
+    # Prints my initials in stylized large letters
 
     print()
 
